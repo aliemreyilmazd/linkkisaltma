@@ -1,0 +1,2 @@
+# linkkisaltma
+ Link Kısaltma
